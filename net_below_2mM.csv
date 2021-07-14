@@ -1,0 +1,37 @@
+Source;Interaction type;Target;gene;Target type;Target type specific;EC/IC50 [nM];Functional Assay;Affinity Ki [nM];Binding Assay;Author;Year;UniprotKB;UniProtKB_Hs;KEGG;ensembl;Target Species;Binding Model;Functional Model;PMID;activity
+CBD;negative allosteric modulator;CB2;CNR2;GPCR;Gi;3,4;Ultra cAMP kit;4200;[3H]-WIN 55,212-2;Pinilla;2018;P34972;P34972;K04278;ENSG00000188822;human;CHO-hCB2;HEK293;29109685;4200
+CBD;full agonist;TRPV1;TRPV1;ionotropic;Cationic;3,5;[Ca2+]i;3600;[3H]?resiniferatoxin;Bisogno;2001;A0A3B3ISI9;A0A3B3ISI9;K05222;ENSG00000196689;human;HEK-hVR1;HEK293;11606325;3,5
+CBD;antagonist;TRPM8;TRPM8;ionotropic;Cationic;60;[Ca2+]i;NA;NA;De Petrocellis;2011;Q8R455;A0A0A0MSV2;K04983;ENSG00000144481;rat;NA;HEK293;21175579;60
+CBD;partial agonist;D2high;DRD2;GPCR;Gi;66;[3H]domperidone;11;[3H]domperidone;Seeman;2016;P61169;A0A1Y8EK52;K04145;ENSG00000149295;rat;rat striatal membrane;rat striatal membrane;27754480;11
+CBD;inhibitor;CYP1A1;CYP1A1;enzyme;xenobiotic;77;EROD;155;EROD;Yamaori;2010;A4F3V8;A4F3V8;K07408;ENSG00000140465;human;protein;protein;20117100;77
+CBD;antagonist;TRPM8;TRPM8;ionotropic;Cationic;80;[Ca2+]i;NA;NA;De Petrocellis;2008;Q8R455;A0A0A0MSV2;K04983;ENSG00000144481;rat;NA;HEK293;18354058;80
+CBD;full agonist;TRPA1;TRPA1;ionotropic;Cationic;96;[Ca2+]i;NA;NA;De Petrocellis;2008;Q6RI86;H0YAW0;K04984;ENSG00000104321;rat;NA;HEK293;18354058;96
+CBD;positive allosteric modulator;5HT1A;HTR1A;GPCR;Gi;100;[35S]GTPgS;NA;NA;Rock;2012;P19327;D6RA34;K04153;ENSG00000178394;rat;NA;rat brainstem membrane;21827451;100
+CBD;full agonist;PPAR?;PPARG;nuclear receptor;RXR;100;PPAR-luciferase ;NA;NA;Hegde;2015;NA;A0A494C012;K08530;ENSG00000132170;NA;NA;P815;25917103;100
+CBD;full agonist;TRPA1;TRPA1;ionotropic;Cationic;110;[Ca2+]i;NA;NA;De Petrocellis;2011;Q6RI86;H0YAW0;K04984;ENSG00000104321;rat;NA;HEK293;21175579;110
+CBD;inhibitor;ENT;SLC29A4;transporter ;other;124;[3H]adenosine;237;[3H]NBMPR;Carrier;2006;Q8R139;Q7RTT9;K03323;ENSG00000226401;mouse;EOC-20;EOC-20;16672367;124
+CBD;inverse agonist ;GPR6;GPR6;GPCR;Gs/i;180;?-arrestin2 Pathhunter;NA;NA;Laun;2017;P46095;P46095;K04313;ENSG00000146360;human;NA;CHO;28571738;180
+CBD;inhibitor;CYP3A5;CYP3A5;enzyme;xenobiotic;195;diltiazem N-demethylase ;1650;diltiazem N-demethylase ;Yamaori;2011;P20815;P20815;K17690;ENSG00000106258;human;protein;protein;21356216;195
+CBD;antagonist;5HT3A;HTR3A;ionotropic;Cationic;329;5HT-3A-mediated current;NA;NA;Xiong;2012;A0A0B4J205;A0A0B4J205;K04819;ENSG00000166736;human;NA;HEK293;21477640;329
+CBD;antagonist;GPR55;GPR55;GPCR;Gq;445;[35S]GTPgS;NA;NA;Ryberg;2007;C9J1P7;C9J1P7;K08413;ENSG00000135898;human;NA;HEK293;17876302;445
+CBD;inverse agonist ;CB2;CNR2;GPCR;Gi;503;[35S]GTPgS;4200;[3H]CP55940;Thomas ;2007;P34972;P34972;K04278;ENSG00000188822;human;CHO-hCB2;CHO;17245363;503
+CBD;negative allosteric modulator;5HT3A;HTR3A;ionotropic;Cationic;600;5HT-3A-mediated current;NA;[3H]GR65630;Yang;2010;A0A0B4J205;A0A0B4J205;K04819;ENSG00000166736;human;X. LAEVIS OOCYTE;X. LAEVIS OOCYTE;20160007;600
+CBD;inhibitor;Cav3.2;CACNA1H;ion channel;Cationic;780;patch-clamp;NA;NA;Ross;2008;A0A1W2PQ19;A0A1W2PQ19;K04855;ENSG00000196557;human;NA;HEK293;18390906;780
+CBD;full agonist;TRPV4;TRPV4;ionotropic;Cationic;800;[Ca2+]i;NA;NA;De Petrocellis;2011;Q9ERZ8;F5H6Q4;K04973;ENSG00000111199;rat;NA;HEK293;21726418;800
+CBD;inhibitor;Cav3.1;CACNA1G;ion channel;Cationic;820;patch-clamp;NA;NA;Ross;2008;A0A0B4J1X2;A0A0B4J1X2;K04854;ENSG00000006283;human;NA;HEK293;18390906;820
+CBD;positive allosteric modulator;GABAA?4?2?;GABRA4;ionotropic;Anionic;900;voltage-clamp;NA;NA;Bakas;2017;D6R924;D6R924;NA;ENSG00000109158;human;NA;X. LAEVIS OOCYTE;28249817;900
+CBD;inhibitor;AANAT;AANAT;enzyme;other;1000;radiometric assay;NA;NA;Koch;2006;Q64666;K7ERF6;K00669;ENSG00000129673;rat;NA;cell-free lysates ;16805813;1000
+CBD;inhibitor;CYP3A4;CYP3A4;enzyme;xenobiotic;1000;diltiazem N-demethylase ;11700;diltiazem N-demethylase ;Yamaori;2011;A0A494C0W7;A0A494C0W7;K17689;ENSG00000160868;human;protein;protein;21356216;1000
+CBD;full agonist;TRPV1;TRPV1;ionotropic;Cationic;1000;[Ca2+]i;NA;NA;De Petrocellis;2011;A0A3B3ISI9;A0A3B3ISI9;K05222;ENSG00000196689;human;NA;HEK293;21175579;1000
+CBD;inverse agonist ;GPR3;GPR3;GPCR;Gs/i;1220;?-arrestin2 Pathhunter;NA;NA;Laun;2017;P46089;P46089;K04311;ENSG00000181773;human;NA;CHO;28571738;1220
+CBD;full agonist;TRPV2;TRPV2;ionotropic;Cationic;1250;[Ca2+]i;NA;NA;De Petrocellis;2011;Q9WUD2;H7BZK2;K04971;ENSG00000187688;rat;NA;HEK293;21175579;1250
+CBD;positive allosteric modulator;GABAA?5?2?2L;GABRA5;ionotropic;Anionic;1400;voltage-clamp;NA;NA;Bakas;2017;G3V296;G3V296;NA;ENSG00000186297;human;NA;X. LAEVIS OOCYTE;28249817;1400
+CBD;inhibitor;CYP1A2;CYP1A2;enzyme;xenobiotic;1460;EROD;2690;EROD;Yamaori;2010;P05177;P05177;K07409;ENSG00000140505;human;protein;protein;20117100;1460
+CBD;inhibitor;FAAH;FAAH;enzyme;fatty acid;1520;[14C]?AEA hydrolisis;NA;NA;De Petrocellis;2011;P97612;A0A087WYA0;K15528;ENSG00000117480;rat;NA;rat brain membrane ;21175579;1520
+CBD;partial agonist;CB2;CNR2;GPCR;Gi;NA;cAMP-luciferase;34;[3H]CP55940;Tham;2018;P34972;P34972;K04278;ENSG00000188822;human;HEK293A-hCB2;HEK293;29981240;34
+CBD;inhibitor;FABP1;FABP1;transporter ;fatty acid;NA;NA;167;NBD-AEA fluorescence;Huang;2016;P12710;A8MW49;K08750;ENSG00000163586;mouse;protein;NA;27552286;167
+CBD;inhibitor;CYP2C19;CYP2C19;enzyme;xenobiotic;2510;S-mephenytoin;793;S-mephenytoin;Jiang;2013;A0A087X125;A0A087X125;K17721;ENSG00000165841;human;protein;protein;23318708;793
+CBD;inhibitor;CYP2C9;CYP2C9;enzyme;xenobiotic;2700;Diclofenac;954;S-Warfarin;Yamaori;2012;A0A2R8YF67;A0A2R8YF67;K17719;ENSG00000138109;human;protein;protein;22166891;954
+CBD;inhibitor;FABP7;FABP7;transporter ;fatty acid;NA;NA;1520;fluorescent NBD-stearate;Elmes;2015;O15540;O15540;K08756;ENSG00000164434;human;protein;NA;25666611;1520
+CBD;inhibitor;FABP3;FABP3;transporter ;fatty acid;NA;NA;1690;fluorescent NBD-stearate;Elmes;2015;P05413;P05413;K08752;ENSG00000121769;human;protein;NA;25666611;1690
+CBD;inhibitor;FABP5;FABP5;transporter ;fatty acid;NA;NA;1880;fluorescent NBD-stearate;Elmes;2015;I6L8B7;I6L8B7;K08754;ENSG00000164687;human;protein;NA;25666611;1880
